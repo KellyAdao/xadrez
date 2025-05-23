@@ -135,9 +135,3 @@ O programa imprime no terminal os movimentos simulados de cada peça:
 ```
 
 ---
-
-## 📄 Licença
-
-Este projeto tem fins **educacionais** e pode ser utilizado livremente para aprendizado, estudos e práticas de programação em C.
-
----
